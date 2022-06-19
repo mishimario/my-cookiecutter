@@ -38,5 +38,6 @@ You will need to manually add data to .gitignore to prevent it from syncing to
 version control.
 
 Don't forget to sync to GitHub. Have fun!
+Original source is https://github.com/patrickmineault/true-neutral-cookiecutter
 """
 print(help)
